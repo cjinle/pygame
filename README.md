@@ -1,5 +1,5 @@
 # pygame
 
-## mine
+ - [mine](doc/mine.md)
 
 
